@@ -15,6 +15,9 @@ All downloaded pages are saved locally in the `pages/` directory.
 - Clean and modular code structure
 - Delay between requests
 
+## Technology
+ Language: Python
+ Libraries: request, BeautifulSoup, time, os, urlparse
 
 
 
