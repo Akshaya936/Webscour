@@ -13,9 +13,8 @@ All downloaded pages are saved locally in the `pages/` directory.
 - Retry mechanism for failed requests
 - Duplicate URL detection
 - Clean and modular code structure
-- Ethical crawling:
-  - Custom User-Agent
-  - Delay between requests
+- Delay between requests
+
 
 
 
